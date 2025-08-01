@@ -4,9 +4,9 @@ from flask import Flask, jsonify
 from apscheduler.schedulers.background import BackgroundScheduler
 from pymongo import MongoClient
 from dotenv import load_dotenv
-from scrapers.eprocure import scrape_eprocure
-from scrapers.gem import scrape_gem
-from utils.alerts import send_whatsapp_alert, send_email
+from eprocure import scrape_eprocure
+from gem import scrape_gem
+from alerts import send_whatsapp_alert, send_email
 from summarize import summarize_tender
 
 # Load environment variables
