@@ -1,0 +1,6 @@
+MONGODB_URI="mongodb+srv://dinesh2003:7386531980@cluster0.gaw7dkr.mongodb.net/?retryWrites=true&w=majority"
+GROQ_API_KEY=" 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"
+TWILIO_SID="AC1ae038f3084933d8a95b12c5f70c6e7c"
+TWILIO_TOKEN="b11e46e3f8883673fef8dc35538a8d59"
+EMAIL_USER="gavinidineshkumar@gmail.com"
+EMAIL_PASSWORD="bmvg cggd yomw zmaf"

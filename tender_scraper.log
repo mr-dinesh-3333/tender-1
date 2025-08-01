@@ -1,0 +1,16 @@
+2025-08-01 17:41:53,494 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-01 17:41:53,500 - INFO - Added job "scrape_and_notify" to job store "default"
+2025-08-01 17:41:53,500 - INFO - Scheduler started
+2025-08-01 17:41:53,508 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.201.20.94:5000
+2025-08-01 17:41:53,508 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-01 17:43:56,876 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-01 17:43:56,878 - INFO - Added job "scrape_and_notify" to job store "default"
+2025-08-01 17:43:56,878 - INFO - Scheduler started
+2025-08-01 17:43:56,886 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.201.20.94:5000
+2025-08-01 17:43:56,886 - INFO - [33mPress CTRL+C to quit[0m
